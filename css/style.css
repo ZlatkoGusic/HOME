@@ -1,0 +1,71 @@
+body{
+    background-color: #00C0F0;
+    margin:0;
+}
+#wrapper {
+    background-color: #00C0F0;
+    width: 960px;
+    height: 500px;
+    margin: auto;
+    padding-top: 50px;
+}
+#socialIcons {
+    background-color: #00C0F0;
+    width: 50px;
+    height: 500px;
+    float: left;
+}
+#content {
+    background-color: #00C0F0;
+    width: 850px;
+    height: 440px;
+    padding: 30px;
+    float: left;
+}
+p {
+    margin: 0;
+    font-family: 'Tauri', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+
+}
+.tekst {
+    color:white;
+    background-color:black;
+}
+.slika {
+    width: 200px;
+    float: left;
+    padding-right: 20px;
+}
+
+.social {
+    display: flex;
+    display: block;
+    padding: 0;
+    padding-top: 15px;
+
+    /* position: relative;
+    top: 30px; */
+    /* transform: translate(-50%,-50%); */
+   
+}
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    
+    width: 40px;
+    height: 40px;
+    /* background: black; */
+    text-decoration: center;
+    line-height: 40px;
+    font-size: 40px;
+    color: black;
+    margin-bottom: 20px;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    
+}
