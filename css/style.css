@@ -110,6 +110,7 @@ ul li a {
 	float:none;
     }
 	#content {
+		display:block;
 		width: 80%;
 		float:none;
 	}
