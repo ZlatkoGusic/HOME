@@ -102,5 +102,7 @@ ul li a {
         width: 100%;
        
     }
-
+	#content {
+		width: 100%;
+	}
 }
