@@ -120,7 +120,6 @@ ul li a {
 	}
 	.slika {
 		display:block;
-		float:right;
 		margin-bottom:10px;
 	}
 	p {
@@ -129,5 +128,6 @@ ul li a {
     	/* font-family: 'Oswald', sans-serif; */
    	 font-weight: 400;
     	font-size: 20px;
+		display:flex;
 	}
 }
