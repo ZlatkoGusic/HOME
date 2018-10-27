@@ -120,7 +120,7 @@ ul li a {
 	}
 	.slika {
 		
-		
+		display:block;
 		left:10px;
 		margin-bottom:10px;
 	}
