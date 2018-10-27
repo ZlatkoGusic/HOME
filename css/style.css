@@ -107,12 +107,12 @@ ul li a {
     #wrapper {
         width: 80%;
        	margin: auto;
-	float:none;
+	
     }
 	#content {
 		display:block;
 		width: 80%;
-		float:none;
+		float:right;
 	}
 	.social {
 	    float:left;
