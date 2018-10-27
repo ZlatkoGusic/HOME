@@ -120,9 +120,13 @@ ul li a {
 	}
 	.slika {
 		display:block;
+		position:relative;
+		left:10px;
 		margin-bottom:10px;
 	}
 	p {
+		position:relative;
+		left:10px;
 	margin: 0;
     	font-family: 'Tauri', sans-serif;
     	/* font-family: 'Oswald', sans-serif; */
