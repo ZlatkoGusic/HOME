@@ -105,12 +105,12 @@ ul li a {
 
 
     #wrapper {
-        width: 100%;
+        width: 80%;
        	margin: auto;
 	float:none;
     }
 	#content {
-		width: 100%;
+		width: 80%;
 		float:none;
 	}
 	.social {
