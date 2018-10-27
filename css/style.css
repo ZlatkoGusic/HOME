@@ -125,7 +125,8 @@ ul li a {
 		margin-bottom:10px;
 	}
 	p {
-		
+	position:relative;
+	padding:0px;
 	margin: 0;
     	font-family: 'Tauri', sans-serif;
     	/* font-family: 'Oswald', sans-serif; */
