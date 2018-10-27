@@ -118,8 +118,7 @@ ul li a {
 		
 	}
 	.slika {
-		
-		
+		display:block;
 		float:left;
 	}
 	p {
