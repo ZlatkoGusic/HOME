@@ -92,7 +92,13 @@ ul li a {
 		
 
     }
-    
+	#content {
+		width: 500px;
+		float:left;
+	}
+    .social {
+	    float:left;
+	}
 }
 
 @media screen and (max-width:767px){
@@ -100,9 +106,13 @@ ul li a {
 
     #wrapper {
         width: 100%;
-       
+       	margin: auto;
     }
 	#content {
 		width: 100%;
+		float:left;
+	}
+	.social {
+	    float:left;
 	}
 }
